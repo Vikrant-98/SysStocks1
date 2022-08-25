@@ -1,0 +1,356 @@
+.profile {
+    display: flex;
+    width: 109px;
+    justify-content: space-between;
+}
+
+.main-container {
+    display: flex;
+}
+
+.SideBar {
+    margin-top: 63px;
+    box-shadow: 2px 0px 22px 5px #e4e4e4 inset;
+    background-color: #ffffff;
+    width: 18%;
+    height: 603px;
+}
+th{
+    font-weight: bold !important;
+}
+.css-1slnj5u-MuiPaper-root{
+    min-height: 300px !important;
+    padding: 42PX !important;
+}
+
+.cursor_pointe
+
+.sidebar_title {
+    font-weight: bold;
+    height: 41px;
+    /* background-color: #e4e4e4; */
+    border-radius: 3px;
+    /* background-color: #ffffff; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 21px;
+    margin: 20px;
+    cursor: pointer;
+}
+.sidebar_title1 {
+    font-weight: bold;
+    height: 41px;
+    background-color: #e4e4e4 !important;
+    border-radius: 3px;
+    /* background-color: #ffffff; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 21px;
+    margin: 20px;
+    cursor: pointer;
+}
+
+.body-content-main{
+margin-top: 110px;
+
+}
+
+.Dashboard {
+    width: 200px;
+    display: flex;
+    margin-left: 34px;
+    /* margin: 20px; */
+}
+
+.holdings{
+    margin-left: 69px;
+}
+.reports {
+    width: 200px;
+    display: flex;
+    /* margin: 20px; */
+    justify-content: space-evenly;
+}
+
+.SubReportSection {
+    margin: 20px;
+
+}
+.dashboardTitle{
+    display: flex;
+}
+
+.titleData {
+    font-size: 24px;
+    font-weight: 900;
+    margin-left: 25px;
+}
+/* .DahboardPArt{
+    display: flex;
+} */
+
+.SubdataShow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 115px !important;
+    flex-direction: column;
+}
+.subDashbordPCard{
+    width: 255px;
+    height: 145px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 2px 0px 22px 5px #e4e4e4 inset;
+    margin-left: 72px;
+    margin-top: 20px;
+}
+.leasetitlee{
+    font-size: 28px;
+    font-weight: 500;
+
+}
+.datashow{
+    font-size: 17px;
+}
+
+
+.subDashbordPCardtable{
+    width: 987px;
+    height: 300px;
+    border-radius: 3px;
+    background-color: #ffffff;
+    box-shadow: 2px 0px 22px 5px #e4e4e4 inset;
+    margin-left: 72px;
+    margin-top: 20px;
+}
+.SubdataShowtable{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 123px;
+    flex-direction: column;
+    padding: 22px;
+}
+
+.sidehoverColor {
+    height: 41px;
+    font-weight: bold;
+    background-color: #e4e4e4;
+    border-radius: 3px;
+    /* background-color: #ffffff; */
+    display: flex;
+    /* justify-content: center; */
+    align-items: center;
+    font-size: 21px;
+    margin: 20px;
+
+    cursor: pointer;
+}
+.cursor_pointe{
+    margin-left: 10px;
+    cursor: pointer;
+}
+.profileDetails {
+    display: flex;
+    justify-content: start;
+    font-size: 20px;
+    flex-direction: column;
+
+}
+.tableContent{
+    display: flex;
+    justify-content: space-between;
+    width: 444px;
+    flex-direction: column;
+    margin-top: 20px;
+}
+tr{
+    display: flex;
+    width: 339px;
+    justify-content: space-between;
+
+    /* justify-content: space-around; */
+}
+.avtarIcon{
+    width: 60px !important;
+    height: 43px !important;
+}
+.avtarProfileDetails{
+    width: 96px;
+    display: flex;
+    justify-content: space-around;
+    font-size: 30px !important;
+    font-weight: bold;
+
+}
+.titleMain{
+    font-weight: bold !important;
+    font-size: 35px !important;
+}
+.profiletitle{
+    font-size: 29px;
+    font-weight: bold;
+}
+td{
+    width: 200px;
+    display: flex;
+    justify-content: flex-start;
+
+}
+
+.moreDetails{
+    
+    display: flex;
+    justify-content: flex-end;
+    padding: 26px;
+    cursor: pointer;
+    /* border-bottom: 1px solid blue; */
+    color: blue;
+
+}
+.topAvtar{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+    width: 120px;
+}
+.username{
+    font-size: 12px;
+}
+.avtarPopup{
+    box-shadow: 2px 0px 22px 5px #e4e4e4 inset;
+    width: 200px;
+    height: 109px;
+    background-color: #ffffff;
+    position: absolute;
+    margin-top: 166PX;
+    margin-right: 170px;
+    color: #000;
+    padding: 10px;
+    font-size: 16px;
+
+}
+
+.topContainer {
+    margin-top: 81px;
+    display: flex;
+    width: 90%;
+    justify-content: center;
+    align-items: center;
+    background-image: url("../../Assets/credit.png");
+    background-position: center;
+    /* Center the image */
+    background-repeat: no-repeat;
+    /* Do not repeat the image */
+    background-size: cover;
+    position: relative;
+
+    margin: 0 auto;
+}
+
+label {
+    /* position: absolute;
+    bottom: 255px;
+    background: rgb(0, 0, 0);
+    Fallback color
+    background: rgba(0, 0, 0, 0.5);
+    Black background with 0.5 opacity
+    color: #f1f1f1;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    font-size: 31px;
+    font-weight: bold;
+    font-style: italic; */
+}
+.logoutalign{
+    display: flex;
+    justify-content: space-around;
+}
+
+.container_management {
+    margin-top: 69px;
+    display: flex;
+    width: 90%;
+    display: flex;
+    /* margin-left: 20px; */
+    /* justify-content: center; */
+    background-color: #d9e7e9;
+}
+
+
+
+.Actionbtns {
+    width: 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.table-action-btn {
+    border: none;
+    background-color: #ffffff;
+    cursor: pointer;
+}
+
+.form {
+    width: 32%;
+}
+
+.input_feild1 {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.form-input1 {
+    width: 398px;
+    height: 31px;
+    border: 1px solid #e4e4e4;
+
+    border-radius: 7px;
+}
+
+.inputTitles {
+    width: 100%;
+    display: flex;
+
+}
+
+.addressText {
+    height: 80px;
+}
+
+.sub-btn {
+    display: flex;
+    justify-content: center;
+    margin-top: 12px;
+}
+
+.create-btn {
+    width: 183px;
+    height: 39px;
+    border: none;
+    border-radius: 7px;
+    font-size: 14px;
+    color: #ffffff;
+    cursor: pointer;
+    background-color: #b03e3e;
+}
+
+.cancel-btn {
+    width: 84px;
+    height: 39px;
+    border: none;
+    border-radius: 7px;
+    font-size: 14px;
+    color: #000000;
+    cursor: pointer;
+}
+.customselect{    width: 383px !important;
+    height: 58px !important;
+    margin-top: 12px !important;
+    border-radius: 4px !important;}

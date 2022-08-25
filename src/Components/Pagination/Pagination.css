@@ -1,0 +1,81 @@
+.custom-pagination {
+    font-weight: 500;
+    color: #4a4a4a;
+    margin: 20px 0;
+    margin-top: 100px;
+    border: 0;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0 15px;
+}
+li.page-item {
+    margin: 0 4px;
+}
+.page-link {
+    border: 0;
+    color: #787878;
+    width: 24px;
+    height: 24px;
+    font-size: 14px;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+&.active .page-link {
+    background-color: #193281;
+    border-radius: 3px;
+    color: #ffffff;
+}
+
+.page-items {
+    display: flex;
+    align-items: center;
+    white-space: nowrap;
+    margin-right: 20px;
+    font-size: 13px;
+}
+select#inputState {
+    border: none !important;
+    padding: 0px 25px;
+    padding-left: 10px;
+    font-size: 13px;
+}
+.pagination {
+}
+.form-control {
+    width: 40px;
+    height: 22px;
+    margin-right: 10px;
+    padding: 0;
+    padding-left: 6px;
+    font-size: 12px;
+    cursor: pointer;
+}
+select {
+    width: 40px;
+    height: 26px;
+    background-position-x: 88%;
+    background-position-y: 10px;
+    padding: 0;
+    padding-left: 6px;
+    font-size: 12px;
+}
+
+.pagination-div {
+    display: flex;
+}
+.ui.pagination.menu {
+    align-items: center;
+    min-height: 30px;
+    max-height: 30px;
+}
+.item {
+    padding: 6px;
+    display: flex;
+    justify-content: center;
+    min-width: 30px;
+    line-height: normal;
+    font-size: 12px;
+}

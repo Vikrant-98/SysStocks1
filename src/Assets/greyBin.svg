@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="18px" viewBox="0 0 15 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>0CDD1D4B-BD8D-41EF-B259-678DB263F650</title>
+    <defs>
+        <filter color-interpolation-filters="auto" id="filter-1">
+            <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.482353 0 0 0 0 0.482353 0 0 0 0 0.482353 0 0 0 1.000000 0"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Engage" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="3045422_delete_garbage_office_recycle_remove_icon" transform="translate(-92.000000, -129.000000)" filter="url(#filter-1)">
+            <g transform="translate(92.000000, 130.000000)">
+                <rect id="XMLID_14_" stroke="#152730" stroke-width="1.5" x="2" y="5" width="11" height="11"></rect>
+                <line x1="7.5" y1="7" x2="7.5" y2="15" id="XMLID_4_" stroke="#152730" stroke-width="1.5"></line>
+                <line x1="10.5" y1="7" x2="10.5" y2="15" id="XMLID_118_" stroke="#152730" stroke-width="1.5"></line>
+                <line x1="4.5" y1="7" x2="4.5" y2="15" id="XMLID_3_" stroke="#152730" stroke-width="1.5"></line>
+                <line x1="0.5" y1="2.5" x2="14.5" y2="2.5" id="XMLID_5_" stroke="#152730" stroke-width="1.5"></line>
+                <rect id="XMLID_6_" stroke="#152730" stroke-width="1.5" x="6" y="0" width="3" height="2"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

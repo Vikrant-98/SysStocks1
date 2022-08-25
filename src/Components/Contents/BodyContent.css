@@ -1,0 +1,75 @@
+.mainBody{
+    display: flex;
+    justify-content: center;   
+    height: 600px;
+    width: 100%;
+}
+
+.B1{
+    display: flex;
+    flex-direction: column;
+    width: 77%;
+    border-radius: 8px;
+}
+.B0{
+    display: flex;
+    width: 100%;
+    padding: 20px;
+}
+.B3{
+    height: 40px;
+}
+.B1-Body1{
+    width: 100%;
+    height: 240px;
+    display: flex;
+}
+.B1-Body1-1{
+    width: 30%;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+}
+.B1-Body1-2{
+    width: 70%;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+}
+.B1-Body2{
+    width: 100%;
+    display: flex;
+}
+.B1-Body2-1{
+    width: 25%;
+    height: 320px;
+    border-radius: 8px;
+    margin: 10px;
+    border: 1px solid;
+}
+.B1-Body2-2{
+    width: 50%;
+    height: 320px;
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+}
+.B1-Body2-3{
+    border-radius: 8px;
+    width: 25%;
+    margin: 10px;
+    height: 240px;
+    border: 1px solid;
+}
+.B2{
+    display: flex;
+    flex-direction: column;
+    width: 23%;
+    border-radius: 8px;
+}
+.B2-Body1{
+    margin: 10px;
+    border-radius: 8px;
+    border: 1px solid;
+    height: 280px;
+}
